@@ -1,1 +1,6 @@
 language: python
+python:
+  - "3.7"
+install:
+
+script: python -m unittest unnecessary_math_tests.py
