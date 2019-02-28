@@ -3,4 +3,4 @@ python:
   - "3.7-dev"
 install:
 
-script: python -m unittest unnecessary_math_tests.py
+script: python -m unittest UnnecessaryMath/unnecessary_math_tests.py
